@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">894092611225-3dcsa2a4u5iltsr5mi2tls7ib5au7otv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">894092611225</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0ZmWFjWd92Ys8LUlynCTxNnPNQL-Hmg4</string>
+    <string name="google_app_id" translatable="false">1:894092611225:android:39e02e7d32c661e59a3208</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0ZmWFjWd92Ys8LUlynCTxNnPNQL-Hmg4</string>
+    <string name="google_storage_bucket" translatable="false">finance-bcea7.appspot.com</string>
+    <string name="project_id" translatable="false">finance-bcea7</string>
+</resources>
