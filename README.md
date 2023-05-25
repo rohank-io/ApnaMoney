@@ -14,13 +14,11 @@ Apna Money is an android application developed in Java(Android) that helps users
  
 
 
-API in use â†’ [Open Trivia DB](https://opentdb.com/api_config.php)
+<h3 align="left">Features:</h3>
 
-
-
-## Features
-
-- Fast API load
-- Beautiful UI Quizy Game.
-- Cross platform
+- User can set their monthly budget
+- User can view their daily\weekly\monthly expenses
+- User Friendly UI .
 - Referesh load ready.
+- Analyse their monthly expense in graphical format
+- Can View only transaction messages of user in Apna Money App
