@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894092611225",
+    "project_id": "finance-bcea7",
+    "storage_bucket": "finance-bcea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894092611225:android:39e02e7d32c661e59a3208",
+        "android_client_info": {
+          "package_name": "com.myprojects.apnamoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894092611225-rlbgl36uudung82hv2i9tdo107qj29kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myprojects.apnamoney",
+            "certificate_hash": "61ce70be7f0a483743a0c16379623162b14dd21f"
+          }
+        },
+        {
+          "client_id": "894092611225-3dcsa2a4u5iltsr5mi2tls7ib5au7otv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ZmWFjWd92Ys8LUlynCTxNnPNQL-Hmg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894092611225-3dcsa2a4u5iltsr5mi2tls7ib5au7otv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
